@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678159559524",
+    "firebase_url": "https://advocate-diary-90fe6-default-rtdb.firebaseio.com",
+    "project_id": "advocate-diary-90fe6",
+    "storage_bucket": "advocate-diary-90fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678159559524:android:844515f33eb6e7e9caa871",
+        "android_client_info": {
+          "package_name": "com.example.advocatediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678159559524-kg4ed48ikaqkk34m1mqc3jb4egv5bnpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.advocatediary",
+            "certificate_hash": "87189898bfc6dff72670a778babf07b836c039d8"
+          }
+        },
+        {
+          "client_id": "678159559524-4jklksemnscfuhkt61k920jlgph3d663.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8WxWQNciCidKgXYlmQ5K8GCJzRPNrmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678159559524-4jklksemnscfuhkt61k920jlgph3d663.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
